@@ -1,1 +1,1 @@
-[{"film": {"tytul":"Zielona Mila","gatunek":"dramat","imie":"Kajetan","nazwisko":"Krason","rok produkcji":1990,"wytwornia":"KrasonCompany"}}, {"film": {"tytul":"Titanic","gatunek":"jeszcze większy dramat","imie":"Marcin","nazwisko":"Bogdanski","rok produkcji":2000,"wytwornia":"BogdanskiCompany"}}]
+[{"film":{"imie":"Kajetan","ilosc egzemplarzy":2,"nazwisko":"Krason","rok produkcji":1920,"gatunek":"dramat","tytul":"Zielona Mila","wytwornia":"cokolwiek"}}]
